@@ -1,2 +1,2 @@
-teste
-
+Foi colocado dentro de uma database chamada Site_Weg uma table denominada Weg que contem as informações do site, como: ID(Integer Primary key) Uma chave primaria, para diferenciar um aquivo do outro, Seção(integer Not Null) para agrupar as seções que possuem algo em comum, Titulo(VarChar(100))Titulo principal, Subtitulo(VarChar(100)) Titulo secundario, Texto(Varchar(400)) Texto principal, SubTexto(varchar(400))Texto secundario, Itens Lista(varchar(100))multi informações contidas em uma seção, Tipo(Varchar(30) Not null)Nome dado a cada grupo de seções e  Status(boolean) Para definir se o aquivo seria mostrado ou n, com o intuito de armazenar e organizar as informações do site WEG.
+O objetivo do projeto é criar um site para o armazenamento dos dados presentes no site da WEG e permitir a edição, adição e remoção de dados para poder facilitar a configuração do site.
